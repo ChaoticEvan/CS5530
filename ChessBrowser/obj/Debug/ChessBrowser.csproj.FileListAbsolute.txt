@@ -1,0 +1,14 @@
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\bin\Debug\ChessBrowser.exe.config
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\bin\Debug\ChessBrowser.exe
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\bin\Debug\ChessBrowser.pdb
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\bin\Debug\ChessTools.dll
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\bin\Debug\MySql.Data.dll
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\bin\Debug\ChessTools.pdb
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\obj\Debug\ChessBrowser.csprojAssemblyReference.cache
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\obj\Debug\ChessBrowser.Form1.resources
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\obj\Debug\ChessBrowser.Properties.Resources.resources
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\obj\Debug\ChessBrowser.csproj.GenerateResource.cache
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\obj\Debug\ChessBrowser.csproj.CoreCompileInputs.cache
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\obj\Debug\ChessBrowser.csproj.CopyComplete
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\obj\Debug\ChessBrowser.exe
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessBrowser\obj\Debug\ChessBrowser.pdb

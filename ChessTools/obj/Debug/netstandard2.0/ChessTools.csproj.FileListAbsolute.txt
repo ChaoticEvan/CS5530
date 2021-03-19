@@ -1,0 +1,9 @@
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessTools\bin\Debug\netstandard2.0\ChessTools.deps.json
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessTools\bin\Debug\netstandard2.0\ChessTools.dll
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessTools\bin\Debug\netstandard2.0\ChessTools.pdb
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessTools\obj\Debug\netstandard2.0\ChessTools.csprojAssemblyReference.cache
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessTools\obj\Debug\netstandard2.0\ChessTools.AssemblyInfoInputs.cache
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessTools\obj\Debug\netstandard2.0\ChessTools.AssemblyInfo.cs
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessTools\obj\Debug\netstandard2.0\ChessTools.csproj.CoreCompileInputs.cache
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessTools\obj\Debug\netstandard2.0\ChessTools.dll
+C:\Users\evanv\Source\Repos\ChaoticEvan\CS5530\ChessTools\obj\Debug\netstandard2.0\ChessTools.pdb
