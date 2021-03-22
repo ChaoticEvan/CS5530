@@ -2,6 +2,9 @@
 
 namespace ChessTools
 {
+    /// <summary>
+    /// An object to represent chess games from a PGN file
+    /// </summary>
     public class ChessGame
     {
         public string Event;
@@ -14,6 +17,9 @@ namespace ChessTools
         public string Moves;
     }
 
+    /// <summary>
+    /// An object for representing a player in a particular chess game
+    /// </summary>
     public class Player
     {
         public string Name;

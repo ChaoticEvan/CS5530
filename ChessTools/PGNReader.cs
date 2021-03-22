@@ -5,8 +5,16 @@ using System.Text;
 
 namespace ChessTools
 {
+    /// <summary>
+    /// A class to read PGN files into ChessGame objects
+    /// </summary>
     public class PGNReader
     {
+        /// <summary>
+        /// Method to read the PGN file in
+        /// </summary>
+        /// <param name="filePath">Path to the PGN file</param>
+        /// <returns>A list of ChessGame objects</returns>
         public List<ChessGame> ReadFile(string filePath)
         {
             string line;           
@@ -21,6 +29,12 @@ namespace ChessTools
             return games;
         }
 
+        /// <summary>
+        /// Helper method to build an individual game from a PGN file
+        /// </summary>
+        /// <param name="file">The file to read the data from</param>
+        /// <param name="line">Curr line of the PGN file</param>
+        /// <returns>A chess game object built from the PGN file</returns>
         private ChessGame BuildGame(StreamReader file, string line)
         {
             ChessGame tempGame = new ChessGame();

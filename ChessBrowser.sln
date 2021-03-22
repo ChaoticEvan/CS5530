@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Reso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessTools", "ChessTools\ChessTools.csproj", "{DA079991-D2ED-4F8D-AE96-5DEFA100E827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "PGNReaderTests\Tests.csproj", "{A233FEEF-0270-41D5-BDDD-97CD40E09E62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "PGNReaderTests\Tests.csproj", "{A233FEEF-0270-41D5-BDDD-97CD40E09E62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
